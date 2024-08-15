@@ -1,2 +1,2 @@
 
-Dummy folder for include files
+Dummy folder for source (*.c) files
